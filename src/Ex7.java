@@ -5,7 +5,9 @@ public class Ex7 {
 		// TODO Auto-generated method stub
 		
 		String statement = "I love java programming"; 
-		statement.substring(7,11);
+		
+		System.out.println("Substring starting from index 7 and ending at 11:");
+		System.out.println(statement.substring(7,11));
 
 	}
 
